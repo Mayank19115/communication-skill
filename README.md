@@ -29,7 +29,7 @@ THESE ARE THE FOLLOWING THINGS I NEED TO DO!!!
 ![image](https://github.com/Mayank19115/communication-skill/assets/144929530/bd9c895b-845d-42e5-b788-cabf00273bb8)
 
 Good morning/afternoon/evening everyone,
-I am May Mewoski I'm from {place}, and now I'm in {current place}. Life here is different but exciting, with new experiences every day.
+I am May I'm from {place}, and now I'm in {current place}. Life here is different but exciting, with new experiences every day.
 My educational journey kicked off at {school ka name(city)}, where I laid the groundwork for my academic pursuits. Currently enrolled in a B.Tech program in Computer {college name}, I'm delving deeper into the world of technology and learning invaluable skills that will define my professional path.
 
 College life, with its blend of academic rigor and extracurricular pursuits, is treating me well. Beyond the classroom, my interests span a variety of activities. Whether it's the energetic game of lawn tennis, the creative outlet of digital art, or the endless possibilities of internet surfing, listening music, each facet adds richness to my college experience.
